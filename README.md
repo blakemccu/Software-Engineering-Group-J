@@ -69,3 +69,6 @@ For any questions or support, reach out to us at:
 
 Stay fit with MösFit! 💪
 
+## 📄 Documentation
+- [System Architecture](ARCHITECTURE.md)
+- [API Documentation](API_DOCS.md)
